@@ -19,7 +19,7 @@
 </head>
 <body>
   <div class="for">
-    <form class="xx" action="./login.php" method="post" enctype="multipart/form-data">
+    <form class="xx" action="./login.html" method="post" enctype="multipart/form-data">
       <h2 class="gg">Login pannel</h2>
       <div class="data">
         <i class="material-icons">email</i>
@@ -36,7 +36,7 @@
       </div>
       <div id="end">
         Not a member?
-        <a href="./sign_page.php">sign up </a></div>
+        <a href="./sign_page.html">sign up </a></div>
     </form>
   </div>
   <script src="/assets/js/more.js"></script>
